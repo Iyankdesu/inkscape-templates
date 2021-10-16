@@ -1,10 +1,12 @@
-## Templates for Inkscape
+## Mockup and Templates for Inkscape
 
-Template and layout for design with Inkscape
+Mockup, template, layout and other stuff for design with Inkscape. *Some* content in this repository is originally by [Gimpscape](https://gimpscape.org) and [Logos by Nick](https://logosbynick.com).
 
 
 
 ## Usage
+
+Mockup, template and layout :
 
 You can easily just double click the svg files to use it but it's not effective because you need to make a copy for the template, or you can just put it in Inkscape templates directory so you can use it anytime without looking for the file and double click it.
 
@@ -30,3 +32,4 @@ You can easily just double click the svg files to use it but it's not effective 
 ## License
 
 This repository is under CC license, read LICENSE for more information.
+

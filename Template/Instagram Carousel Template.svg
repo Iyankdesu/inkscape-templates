@@ -25,16 +25,17 @@
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="0.17763975"
-     inkscape:cx="1840.8042"
-     inkscape:cy="346.2063"
+     inkscape:zoom="0.044409938"
+     inkscape:cx="3636.5735"
+     inkscape:cy="349.02098"
      inkscape:window-width="1366"
      inkscape:window-height="749"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
-     inkscape:snap-global="false">
+     inkscape:current-layer="layer2"
+     inkscape:snap-global="true"
+     showborder="false">
     <sodipodi:guide
        position="-3.7597657e-07,4.2773437e-06"
        orientation="1,0"
@@ -98,88 +99,79 @@
        id="rect7673" />
   </defs>
   <g
-     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(69.510635,-47.39362)">
+     id="layer2"
+     inkscape:label="Content"
+     style="display:inline">
     <rect
        style="fill:#ffffff;stroke-width:0.663112"
        id="rect20"
        width="285.75"
        height="285.75"
-       x="-69.510635"
-       y="47.39362" />
+       x="1.9073486e-05"
+       y="5.8619776e-14" />
     <rect
        style="fill:#ffffff;stroke-width:0.663112"
        id="rect71"
        width="285.75"
        height="285.75"
-       x="216.23936"
-       y="47.39362" />
+       x="285.75003"
+       y="5.8619776e-14" />
     <rect
        style="fill:#ffffff;stroke-width:0.663112"
        id="rect73"
        width="285.75"
        height="285.75"
-       x="501.98938"
-       y="47.39362" />
+       x="571.50006"
+       y="5.8619776e-14" />
     <rect
        style="fill:#ffffff;stroke-width:0.663112"
        id="rect75"
        width="285.75"
        height="285.75"
-       x="787.73938"
-       y="47.39362" />
+       x="857.25"
+       y="5.8619776e-14" />
     <rect
        style="fill:#ffffff;stroke-width:0.663112"
        id="rect87"
        width="285.75"
        height="285.75"
-       x="1073.4894"
-       y="47.39362" />
+       x="1143"
+       y="5.8619776e-14" />
     <rect
        style="fill:#ffffff;stroke-width:0.663112"
        id="rect89"
        width="285.75"
        height="285.75"
-       x="1359.2394"
-       y="47.39362" />
+       x="1428.75"
+       y="5.8619776e-14" />
     <rect
        style="fill:#ffffff;stroke-width:0.663112"
        id="rect91"
        width="285.75"
        height="285.75"
-       x="1644.9894"
-       y="47.39362" />
+       x="1714.5"
+       y="5.8619776e-14" />
     <rect
        style="fill:#ffffff;stroke-width:0.663112"
        id="rect99"
        width="285.75"
        height="285.75"
-       x="1930.7394"
-       y="47.39362" />
+       x="2000.25"
+       y="5.8619776e-14" />
     <rect
        style="fill:#ffffff;stroke-width:0.663112"
        id="rect101"
        width="285.75"
        height="285.75"
-       x="2216.4893"
-       y="47.39362" />
+       x="2285.9998"
+       y="5.8619776e-14" />
     <rect
        style="fill:#ffffff;stroke-width:0.663112"
        id="rect103"
        width="285.75"
        height="285.75"
-       x="2502.2393"
-       y="47.39362" />
-    <text
-       xml:space="preserve"
-       style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0.264583px;stroke-width:0.264583"
-       x="-175.88298"
-       y="-26.329786"
-       id="text3673"><tspan
-         sodipodi:role="line"
-         id="tspan3671"
-         style="stroke-width:0.264583"></tspan></text>
+       x="2571.7498"
+       y="5.8619776e-14" />
   </g>
 </svg>
